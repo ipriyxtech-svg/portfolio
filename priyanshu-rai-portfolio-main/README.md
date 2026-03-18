@@ -45,7 +45,7 @@ A beautiful, responsive portfolio website built with React, TypeScript, and Tail
 1. Clone the repository:
 ```bash
 git clone <repository-url>
-cd shivanshu-portfolio
+cd priyanshu-portfolio
 ```
 
 2. Install dependencies:

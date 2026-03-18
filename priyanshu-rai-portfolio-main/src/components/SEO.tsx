@@ -53,7 +53,7 @@ const SEO: React.FC<SEOProps> = ({
     url:
       url ||
       pageConfig?.url ||
-      `https://your-portfolio.vercel.app${location.pathname}`,
+      `https://portfolio-ipriyxtech-svgs-projects.vercel.app${location.pathname}`,
 
     type: type || pageConfig?.type || "website"
   };
