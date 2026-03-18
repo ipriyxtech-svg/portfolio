@@ -101,7 +101,7 @@ const About = () => {
                    </div>
               <div className="pt-4">
                 <a
-                  href="https://drive.google.com/file/d/1dyx6FK1Y-40gDIR6e3WparRmMfkYTt5w/view?usp=sharing"
+                  href="https://drive.google.com/file/d/1irjKzZS8F7Iy9tMRwhAMriPm7HAhihH_/view?usp=sharing"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="btn-primary inline-flex items-center"
