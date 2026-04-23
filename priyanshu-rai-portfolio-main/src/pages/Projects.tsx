@@ -131,7 +131,9 @@ technologies: ["HTML", "CSS", "JavaScript", "Web Security", "URL Validation", "H
       liveUrl: "https://phishing-url-detection-ashen.vercel.app/",
       githubUrl: "https://github.com/ipriyxtech-svg/phishing-url-detection",
       year: "2026",
-      category: "Frontend"
+      
+      category: "Cyber Security"
+
     },
 
     {
@@ -159,17 +161,7 @@ technologies: ["HTML", "CSS", "JavaScript", "Three.js", "Firebase", "Web Speech 
     },
 
 
- {
 
-title: "3D To-Do List App",
-description: "3D UI & Task Management | Three.js, JavaScript, Firebase Developed an interactive 3D to-do list application where tasks are visualized as draggable cubes in a 3D environment. Implemented task creation via text and voice input, real-time updates, and completion animations. Integrated Firebase for persistent storage with localStorage fallback and added dark/neon theme switching for enhanced user experience.",
-technologies: ["HTML", "CSS", "JavaScript", "Three.js", "Firebase", "Web Speech API", "3D Graphics", "LocalStorage"],
-      image: "/todo.png",
-      liveUrl: "https://todo-notes-eosin.vercel.app/",
-      githubUrl: "https://github.com/ipriyxtech-svg/Todo-notes",
-      year: "2026",
-      category: "Frontend"
-    },
 
      {
 
