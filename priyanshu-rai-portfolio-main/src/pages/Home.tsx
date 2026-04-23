@@ -21,7 +21,7 @@ const Home = () => {
       title: "Blockchain Based Secure Voting System",
       description: "A decentralized voting application built on the Ethereum blockchain that allows users to securely cast votes using smart contracts. The system ensures transparency, immutability, and tamper-proof election results while preventing double voting through blockchain verification.",
       technologies: ["Solidity", "Ethereum Blockchain", "Smart Contracts", "Hardhat", "React.js", "Web3.js / Ethers.js", "MetaMask", "IPFS"],
-      image: "/v1.png",
+      image: "/vv1.png",
       liveUrl: "https://github.com/ipriyxtech-svg/voting-system",
       githubUrl: "https://github.com/ipriyxtech-svg/voting-system",
       year: "2024",
