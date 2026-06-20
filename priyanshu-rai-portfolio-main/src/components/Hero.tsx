@@ -7,10 +7,10 @@ const Hero = () => {
   const [currentText, setCurrentText] = useState(0)
   const texts = [
     "Blockchain Developer",
-    "DevOps Engineer", 
-    "Network Security Engineer",
-    "ML/AI Explorer",
-    "Problem Solver"
+    "IT Support Engineer", 
+    "Technical Support Engineer",
+    "Linux Support Engineer",
+    "System Administrator"
   ]
 
   useEffect(() => {
@@ -83,7 +83,7 @@ const Hero = () => {
                 transition={{ delay: 0.5 }}
                 className="text-xl text-secondary max-w-2xl"
               >
-                Currently pursuing a Bachelor of Technology in Information Technology
+                  Bachelor of Technology in Information Technology
 from Rajkiya Engineering College, Azamgarh (2022–2026).
 
 I have experience as a Blockchain Developer Intern,
@@ -104,7 +104,7 @@ with hands-on practice on TryHackMe and competitive programming platforms.
               className="flex flex-col sm:flex-row gap-4"
             >
               <a
-                href="https://drive.google.com/file/d/1irjKzZS8F7Iy9tMRwhAMriPm7HAhihH_/view?usp=sharing"
+                href="https://drive.google.com/file/d/1sHimtLbdJ_ZPTEEDLJ8pflAYr1w4Oqi0/view?usp=sharing"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="btn-primary inline-flex items-center justify-center"
@@ -128,7 +128,7 @@ with hands-on practice on TryHackMe and competitive programming platforms.
               className="grid grid-cols-4 gap-6 pt-8"
             >
               <div className="text-center">
-                <div className="text-2xl font-bold text-primary-500">10+</div>
+                <div className="text-2xl font-bold text-primary-500">22+</div>
                 <div className="text-sm text-muted">Projects Built</div>
               </div>
               <div className="text-center">
